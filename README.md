@@ -2,9 +2,9 @@
 Revendo os conceitos 
 
 # Comandos git
-git config --global -e  (Mostra o usuário de github no pc)
-git log --oneline (Mostra as hash dos commits)
-git log (Mostra os commits, data, hora e autores)
+git config --global -e  (Mostra o usuário de github no pc) \n
+git log --oneline (Mostra as hash dos commits) \n
+git log (Mostra os commits, data, hora e autores) \n
 git branch <nova branch> (Cria uma nova branch)
 git branch -D <nome da branch> (Exclui a branch desejada)
 git branch (Lista as branchs)
