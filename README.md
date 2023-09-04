@@ -27,5 +27,6 @@ git status (mostra os arquivos modificados)
 
 
 # Contato
-telefone: (85) 99656-0823
+telefone: (85) 99656-0823  
+
 email: joaopedro@gmail.com
