@@ -22,9 +22,9 @@ git add . (Deixa todos os arquivos em stage prontos para os commits)
 
 git commit -m "" (Faz o commit com um comentário)  
 
-git status (mostra os arquivos modificados)  
+git status (Mostra os arquivos modificados)  
 
-
+git merge <nome branch> (Merge a branch desejada em outra branch)
 
 # Contato
 telefone: (85) 99656-0823  
