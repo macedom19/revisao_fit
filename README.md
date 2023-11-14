@@ -32,7 +32,12 @@ git stash clear (Limpa as alterações salvas localmente)
 
 git stash (Salva localmente com o nome do ultimo commit)  
 
-git push -u origin <nome da branch> (Faz um pull request)  
+git push -u origin <nome da branch> (Faz um pull request)
+
+```
+def joaopedro(a, b):
+  return a + b
+```
 
 
 
